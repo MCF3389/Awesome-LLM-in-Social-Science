@@ -172,6 +172,7 @@ Welcome to contribute and discuss!
 - **ChatFive: Enhancing User Experience in Likert Scale Personality Test through Interactive Conversation with LLM Agents**, CUI 2024, [[paper]](https://dl.acm.org/doi/abs/10.1145/3640794.3665572)
 - **LLM Agents for Psychology: A Study on Gamified Assessments**, 2024.02, [[paper]](https://arxiv.org/abs/2402.12326).
 - **Generative Social Choice**, 2023.09, [[paper]](https://arxiv.org/abs/2309.01291)
+- **Avatar Research: Create An AI-Based Avatar With An Authoring Tool in 5 Minutes**, 2024.11., [[software]](https://app-mpn4qe4qp5tz4.azurewebsites.net/), a preprint describing the software will be added in December 2024
 
 ##  5. <a name='Alignment'></a>⛑️ Alignment
 
@@ -233,3 +234,4 @@ Welcome to contribute and discuss!
 - **The benefits, risks and bounds of personalizing the alignment of large language models to individuals**, 2024.04, Nature Machine Intelligence, [[paper]](https://www.nature.com/articles/s42256-024-00820-y).
 - **A social path to human-like artificial intelligence**, 2023.11, Nature Machine Intelligence, [[paper]](https://www.nature.com/articles/s42256-023-00754-x).
 - **Using large language models in psychology**, 2023.10, Nature reviews psychology, [[paper]](https://www.nature.com/articles/s44159-023-00241-5).
+- **AI-based avatars are changing the way we learn and teach: benefits and challenges**, 2024.06, Frontiers in Education, [[paper]](https://doi.org/10.3389/feduc.2024.1416307).
